@@ -1,0 +1,174 @@
+.logo {
+    width: 80px;
+    height: 60px;
+  }
+  
+  .navbar-nav li{
+    padding: 0 10px;
+    margin-right: 10px;
+  }
+  .navbar-nav li a{
+    color: #fff!important;
+    font-weight: 600;
+    font-size: 20px;
+  }
+  .navbar-brand{
+    margin-left: 40px;
+  }
+.navbar{
+    background: #333436bf;
+    
+}
+
+
+.media h1{
+  margin-top: 100px;
+  text-align: center;
+  justify-content: center;
+  font-family: sans-serif;
+  font-weight: 100;
+}
+.media p{
+  text-align: center;
+  justify-content: center;
+  font-size: 20px;
+  margin-top: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  word-spacing: 2px;
+}
+.media button{
+  background: greenyellow;
+  color: white;
+  text-align: center;
+font-size: 20px;
+  border-radius: 5px;
+  margin: 10px;
+}
+
+.media,
+.experience{
+  height: 500px;
+background-image: url(../image/bg.jpg);
+}
+
+.cards h1{
+  text-align: center;
+  font: 40px;
+  font-family: sans-serif;
+  font-weight: 500;
+}
+.exp h1{
+  margin-top: 130px;
+  font: 25px;
+  font-family: sans-serif;
+  font-weight: 500;
+}
+.exp p{
+  justify-content: center;
+  font-size: 18px;
+  letter-spacing: 2px;
+  font-family: sans-serif;
+  word-spacing: 3px;
+}
+
+.exp, 
+.expimg{
+  background-image: url(../image/ffback2.png);
+  height: 500px;
+}
+
+.about,
+.aboutpic{
+  background-image: url(../image/aboutimg.jpg);
+  width: 100%;
+  height: 600px;
+  background-size: cover;
+}
+
+.changer,
+.changerpic{
+  background-image: url(../image/gamebanner.jpg);
+  height: 420px;
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.brand,
+.brandpic{
+  background-image: url(../image/brands.jpg);
+  width: 100%;
+  height: 600px;
+}
+
+.team,
+.teampic{
+  background-image: url(../image/team.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+height: 600px;
+}
+
+
+.ypsa{
+  background-image: url(../image/YPAshok.jpg);
+  width: 100%;
+  height: 300px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.brsach{
+  background-image: url(../image/B.R.-Sachdeva.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 300px;
+  width: 100%;
+}
+
+.sagar{
+  background-image: url(../image/Sagar-Bajaj.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 300px;
+  width: 100%;
+}
+
+.jay{
+  background-image: url(../image/JAY-PHOTO-1-1.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 300px;
+  width: 100%;
+}
+.vibhu{
+  background-image: url(../image/vibhutiPR.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 300px;
+  width: 100%;
+}
+
+.careers,
+.carrerspic{
+background-image: url(../image/ca.jpg);
+width: 100%;
+height: 600px;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;
+}
+  
+.contact,
+.contactpic{
+  background-image: url(../image/CONTACT-US.jpg);
+  width: 100%;
+  height: 600px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
